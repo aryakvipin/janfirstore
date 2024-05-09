@@ -12,11 +12,11 @@ void main() async {
   // Initialize a new Firebase App instance
   await Firebase.initializeApp(
       options: const FirebaseOptions(
-          apiKey: "AIzaSyC2OdHA5HGwwFARTscHVyUsIKNeqQsUagE",
-          appId: "1:1060361659441:android:3e4ba17310af288b116110",
+          apiKey: "AIzaSyBtPKxLQJgrouMOFyeA-etDCyDbRtu3mXc",
+          appId: "1:287475759989:android:6cd7a8e13723679344313c",
           messagingSenderId: "",
-          projectId: "fistoregenov",
-          storageBucket: "fistoregenov.appspot.com"));
+          projectId: "janfirsotre",
+          storageBucket: "janfirsotre.appspot.com"));
   runApp(const MyApp());
 }
 
