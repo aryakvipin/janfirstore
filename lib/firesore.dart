@@ -1,3 +1,4 @@
+
 import 'dart:io';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_storage/firebase_storage.dart';
@@ -10,8 +11,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   // Initialize a new Firebase App instance
   await Firebase.initializeApp(
-
-  );
+      options: const FirebaseOptions(
+          apiKey: "AIzaSyC2OdHA5HGwwFARTscHVyUsIKNeqQsUagE",
+          appId: "1:1060361659441:android:3e4ba17310af288b116110",
+          messagingSenderId: "",
+          projectId: "fistoregenov",
+          storageBucket: "fistoregenov.appspot.com"));
   runApp(const MyApp());
 }
 
