@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287475759989",
+    "project_id": "janfirsotre",
+    "storage_bucket": "janfirsotre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287475759989:android:6cd7a8e13723679344313c",
+        "android_client_info": {
+          "package_name": "com.example.janfirstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPKxLQJgrouMOFyeA-etDCyDbRtu3mXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
